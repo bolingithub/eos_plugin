@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.wallet.eos.api.exception;
+package com.develop.wallet.eos.api.exception;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

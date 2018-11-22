@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.wallet.eos.model;
+package com.develop.wallet.eos.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

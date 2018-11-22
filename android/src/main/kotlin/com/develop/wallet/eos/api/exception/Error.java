@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.wallet.eos.api.exception;
+package com.develop.wallet.eos.api.exception;
 
 /**
  * @author espritblock http://eblock.io

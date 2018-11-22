@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.wallet.eos.utils;
+package com.develop.wallet.eos.utils;
 
 /**
  * exception

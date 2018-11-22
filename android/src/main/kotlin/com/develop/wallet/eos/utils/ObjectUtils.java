@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.wallet.eos.utils;
+package com.develop.wallet.eos.utils;
 
 import com.develop.wallet.eos.crypto.utils.ByteBuffer;
 import com.develop.wallet.eos.crypto.utils.ByteUtils;

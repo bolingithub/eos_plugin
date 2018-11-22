@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.mnemonic;
+package com.develop.mnemonic;
 
 import com.develop.mnemonic.crypto.Hash;
 import com.develop.mnemonic.crypto.SecureRandomUtils;

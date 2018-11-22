@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.wallet.eos.crypto;
+package com.develop.wallet.eos.crypto;
 
 import java.math.BigInteger;
 

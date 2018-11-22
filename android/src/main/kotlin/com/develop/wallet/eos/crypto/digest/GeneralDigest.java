@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.wallet.eos.crypto.digest;
+package com.develop.wallet.eos.crypto.digest;
 
 public abstract class GeneralDigest {
     private static final int BYTE_LENGTH = 64;

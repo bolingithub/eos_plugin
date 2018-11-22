@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.mnemonic;
+package com.develop.mnemonic;
 
 import io.github.novacrypto.bip32.ExtendedPrivateKey;
 import io.github.novacrypto.bip32.Network;

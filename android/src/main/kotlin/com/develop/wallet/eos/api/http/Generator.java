@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.wallet.eos.api.http;
+package com.develop.wallet.eos.api.http;
 
 import com.develop.wallet.eos.api.exception.ApiError;
 import com.develop.wallet.eos.api.exception.ApiException;

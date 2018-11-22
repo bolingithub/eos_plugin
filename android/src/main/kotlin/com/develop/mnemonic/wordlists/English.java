@@ -19,7 +19,7 @@
  *  You can contact the authors via github issues.
  */
 
-package android.src.main.kotlin.com.develop.mnemonic.wordlists;
+package com.develop.mnemonic.wordlists;
 
 /**
  * Source: https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt

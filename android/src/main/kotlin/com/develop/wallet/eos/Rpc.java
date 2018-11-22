@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.wallet.eos;
+package com.develop.wallet.eos;
 
 import com.develop.wallet.BuildConfig;
 import com.develop.wallet.eos.api.RpcService;

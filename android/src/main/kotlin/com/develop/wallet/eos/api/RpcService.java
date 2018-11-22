@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.wallet.eos.api;
+package com.develop.wallet.eos.api;
 
 import com.develop.wallet.eos.model.*;
 import com.develop.wallet.eos.model.account.Account;

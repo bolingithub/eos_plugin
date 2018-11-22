@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.wallet.eos.crypto.digest;
+package com.develop.wallet.eos.crypto.digest;
 
 
 import com.develop.wallet.eos.utils.EException;

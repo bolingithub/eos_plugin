@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.mnemonic.utils;
+package com.develop.mnemonic.utils;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package android.src.main.kotlin.com.develop.mnemonic.crypto;
+package com.develop.mnemonic.crypto;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

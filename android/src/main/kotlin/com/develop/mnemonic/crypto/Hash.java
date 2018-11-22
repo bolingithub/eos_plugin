@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.mnemonic.crypto;
+package com.develop.mnemonic.crypto;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

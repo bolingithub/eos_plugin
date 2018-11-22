@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.wallet;
+package com.develop.wallet;
 
 /**
  * @author Angus

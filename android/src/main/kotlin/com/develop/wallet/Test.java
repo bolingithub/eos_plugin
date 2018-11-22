@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.wallet;
+package com.develop.wallet;
 
 import com.develop.mnemonic.KeyPairUtils;
 import com.develop.mnemonic.MnemonicUtils;

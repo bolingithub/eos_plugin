@@ -1,4 +1,4 @@
-package android.src.main.kotlin.com.develop.wallet.eos.model.transaction.push;
+package com.develop.wallet.eos.model.transaction.push;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
